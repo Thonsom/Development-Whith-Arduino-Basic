@@ -1,0 +1,3 @@
+Esta version ya incluye poder trabajar con sensor de distancia o Ultrasónico HC-SR04
+La version que esta en s4a.cat no la incluye, me falto explicarlo en el curso pero me parece 
+que si se acopla bien al sensor
